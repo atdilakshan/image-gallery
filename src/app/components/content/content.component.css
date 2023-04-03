@@ -3,6 +3,23 @@
   /* background-color: #198754; */
 }
 
+.heading{
+  text-align: center;
+  margin: 1% 0;
+  padding: 1% 0;
+}
+
+.heading h1{
+}
+
+.heading h2 a{
+  color: #198754;
+}
+
+.heading p{
+  margin: 1% 0;
+}
+
 .gallery {
   width: 80%;
   margin: auto;
